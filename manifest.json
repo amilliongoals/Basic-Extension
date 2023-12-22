@@ -7,7 +7,7 @@
 	"author": "joshu.gagnier",
 
 	"background": {
-		"scripts": ["popup.js"],    //script that will be ran 
+		"scripts": ["popup.js"]   //script that will be ran 
 		"persistent": true
 	},
 
